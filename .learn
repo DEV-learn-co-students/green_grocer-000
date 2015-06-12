@@ -11,4 +11,3 @@ assessments:
   - local build
   - pull request
   - remote build
-  - signature
