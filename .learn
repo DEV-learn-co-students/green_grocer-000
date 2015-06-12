@@ -6,3 +6,9 @@ tags:
   - hashes
   - named parameters
   - advanced
+assessments:
+  - fork
+  - local build
+  - pull request
+  - remote build
+  - signature
